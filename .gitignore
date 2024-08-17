@@ -1,0 +1,22 @@
+# Compiled object files
+*.o
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*~
+*.tmp
+
+# Directory-specific settings (e.g., VSCode)
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Linux-generated file
+*~
+
+# Git ignore itself
+.gitignore
